@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Sensitive call-centre data
+transcripts/
+transcrips_all/
+classification_results.csv

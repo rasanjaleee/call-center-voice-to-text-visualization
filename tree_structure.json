@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "865e24cb-d6df-429a-b7b1-4343ad0eb403",
+  "title": "Call Center Analytics (20)",
+  "root": {
+    "id": "root",
+    "topic": "Call Center Analytics (20)",
+    "children": [
+      {
+        "id": "f3335ee5-d065-47cf-bdaf-6073c2822439",
+        "topic": "මාසික බිල්පත (24)",
+        "children": [
+          {
+            "id": "7b0f9665-e452-4f35-a56f-9ff38eac0eef",
+            "topic": "බිල් විස්තර විමසීම (24)",
+            "children": [
+              {
+                "id": "3c0b85ea-3910-42b1-a5b4-c3b184c2e685",
+                "topic": "විසන්ධි කිරීම (19)",
+                "children": [
+                  {
+                    "id": "a35d045e-1b8f-42e7-aa9e-f945d4f5b54d",
+                    "topic": "ගෙවීම සිදු කර ඇත (9)",
+                    "children": [
+                      {
+                        "id": "6e9202b5-3286-4ed8-bf08-f604ebf68390",
+                        "topic": "යාවත්කාලීන වී නැත (4)",
+                        "children": [
+                          {
+                            "id": "c0b48ef9-8941-4a54-8244-c8f63f25d48a",
+                            "topic": "පැමිණිල්ල (1)",
+                            "children": [],
+                            "createdAt": 1791132865696,
+                            "modifiedAt": 1791132865696,
+                            "collapsed": false
+                          }
+                        ],
+                        "createdAt": 1791132865696,
+                        "modifiedAt": 1791132865696,
+                        "collapsed": false
+                      },
+                      {
+                        "id": "8a15bd52-26a4-4b8c-bcc7-b5220c00b86b",
+                        "topic": "යාවත්කාලීන වී ඇත (2)",
+                        "children": [],
+                        "createdAt": 1791132865696,
+                        "modifiedAt": 1791132865696,
+                        "collapsed": false
+                      }
+                    ],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  },
+                  {
+                    "id": "186a11d5-24b1-4264-934a-452adf4f8322",
+                    "topic": "ප්‍රමාණවත් නොවන ගෙවීම (3)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  },
+                  {
+                    "id": "3e5f394e-7252-46ff-bd2c-18979c0d2831",
+                    "topic": "තාවකාලික සම්බන්ධතාව (හැක) (1)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  },
+                  {
+                    "id": "0e4d5ae1-1ee1-4bc2-9407-4d433fe93993",
+                    "topic": "තාවකාලික සම්බන්ධතාව (නොහැක) (1)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  }
+                ],
+                "createdAt": 1791132865696,
+                "modifiedAt": 1791132865696,
+                "collapsed": false
+              }
+            ],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          }
+        ],
+        "createdAt": 1791132865696,
+        "modifiedAt": 1791132865696,
+        "collapsed": false
+      },
+      {
+        "id": "8ce77270-e4da-48ed-baf1-4d8f0c75c516",
+        "topic": "අලුත් සම්බන්ධතාවය (19)",
+        "children": [
+          {
+            "id": "b9eea4c6-486a-4798-85e0-049a6d574551",
+            "topic": "පැකේජ් විස්තර (13)",
+            "children": [
+              {
+                "id": "bc53eb93-26ec-4b2b-b141-1391f6094d64",
+                "topic": "වේගය පිළිබඳ විමසීම් (4)",
+                "children": [],
+                "createdAt": 1791132865696,
+                "modifiedAt": 1791132865696,
+                "collapsed": false
+              },
+              {
+                "id": "9b52e2df-84a0-4251-ba6e-96400800cf13",
+                "topic": "පැකේජය වෙනස් කිරීම (4)",
+                "children": [
+                  {
+                    "id": "eda005c1-8044-40d9-b949-f7090207d5e6",
+                    "topic": "ඩවුන්ග්‍රේඩ් කොන්දේසි (1)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  },
+                  {
+                    "id": "4cd55dc4-fe8a-497c-922c-0625df2e6d23",
+                    "topic": "ලියාපදිංචි අංකය අවශ්‍යයි (1)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  }
+                ],
+                "createdAt": 1791132865696,
+                "modifiedAt": 1791132865696,
+                "collapsed": false
+              }
+            ],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "41b0d835-3468-42ef-a5ed-cbd507649578",
+            "topic": "ඔන්ලයින් ඇණවුම් (4)",
+            "children": [
+              {
+                "id": "d999dcf7-9fc2-4304-9bdb-51f1421350f2",
+                "topic": "සම්බන්ධතාව දෙන කාලය (2)",
+                "children": [],
+                "createdAt": 1791132865696,
+                "modifiedAt": 1791132865696,
+                "collapsed": false
+              }
+            ],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          }
+        ],
+        "createdAt": 1791132865696,
+        "modifiedAt": 1791132865696,
+        "collapsed": false
+      },
+      {
+        "id": "2f9ac50d-db2e-4434-bd90-5da20084af3a",
+        "topic": "කාර්මික සහ තාක්ෂණික ගැටලු (22)",
+        "children": [
+          {
+            "id": "11ae58e6-991b-4eff-890f-10799d405db1",
+            "topic": "රවුටර් දෝෂ (1)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "3a5df922-0217-40ef-9cbc-05ed2f325d3f",
+            "topic": "ලෑන්ඩ් ලයින් දෝෂ (3)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "716716b3-6907-47a0-9203-7adafd62dfc3",
+            "topic": "PEO TV දෝෂ (2)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "ae7d3c28-c971-4c2e-b08b-d9c968c17397",
+            "topic": "ඉන්ටර්නෙට් සම්බන්ධතා ගැටලු (3)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "8724b7eb-39d4-46f0-b86a-406a16d8d7a7",
+            "topic": "ලයින් දෝෂ (2)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "ae680de9-c741-47e0-9c39-f74a577147ab",
+            "topic": "සම්බන්ධතාව බිඳවැටීම / LOS / වයර් දෝෂ (2)",
+            "children": [],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          },
+          {
+            "id": "8eab0044-c24f-4ccf-8f88-6e0a2419108e",
+            "topic": "රවුටරය නැවත ආරම්භ කිරීමට උත්සාහ කිරීම (9)",
+            "children": [
+              {
+                "id": "6c381ab0-30fb-44d5-93b4-d0c91c542f76",
+                "topic": "ගැටලුව විසඳී නැත (9)",
+                "children": [
+                  {
+                    "id": "1816b55f-4298-441d-b9a2-1092559ecf6a",
+                    "topic": "තාක්ෂණික අංශයට යොමු කිරීම (7)",
+                    "children": [],
+                    "createdAt": 1791132865696,
+                    "modifiedAt": 1791132865696,
+                    "collapsed": false
+                  }
+                ],
+                "createdAt": 1791132865696,
+                "modifiedAt": 1791132865696,
+                "collapsed": false
+              }
+            ],
+            "createdAt": 1791132865696,
+            "modifiedAt": 1791132865696,
+            "collapsed": false
+          }
+        ],
+        "createdAt": 1791132865696,
+        "modifiedAt": 1791132865696,
+        "collapsed": false
+      }
+    ],
+    "createdAt": 1791132865696,
+    "modifiedAt": 1791132865696,
+    "collapsed": false
+  },
+  "meta": {
+    "source": "Call Center Analytics"
+  }
+}
